@@ -1,0 +1,71 @@
+header{
+    font-family: consolas;
+    font-size: 1.3rem;
+    text-align: center;
+
+
+
+}
+
+
+#button-confirm{
+    margin-left: 30px;
+}
+
+
+
+.conteiner{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-size: 1.3rem;
+    align-items: center;
+    margin-top: 30px;
+
+  
+    /*text-align: center*/
+}
+
+.conteiner-2{
+    display: flex;
+}
+
+.form{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    margin-top: 90px;
+    margin-left: 22px ;
+}
+
+
+.buttons{
+    display: flex;
+    align-items: center;
+
+    margin: auto;
+
+
+
+
+}
+
+.text{
+    display: flex;
+}
+
+.button-confirm{
+    font-size: 1rem;
+    background-color: green;
+    color: white;
+    margin-top: 300px;
+    margin-right: 9px;
+
+}
+
+.button-delet{
+    font-size: 1rem;
+    background-color: red;
+    margin-left: 90px;
+    margin-top: 30px;
+    color: white;
+}
+   
